@@ -38,4 +38,4 @@ The more distance from the nearest restauran, the less available bikes we see an
 ## Future Goals
 When I went to the website with the analytics about the Antwerp city, it shows that the city is very touristic with a lot of places depending on tourists. That made me think, that taking shorter trips, visiting places nearby stations is common since tourists who come into the city do not own any cars and would prefer taking bikes over driving. 
 CHALLANGES
-The data is not enough to make a compehensive analysis to determine , next time I might select English speaking country or a city.
+The data is not enough to make a compehensive analysis to determine , next time I might select English speaking country or a city. Something to consider for the future.
