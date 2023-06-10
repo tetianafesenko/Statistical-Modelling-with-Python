@@ -1,4 +1,4 @@
-FINAL PRESENTATION: https://prezi.com/view/ni0F3QFfyOCk2RlwOeC0/
+FINAL PRESENTATION LINK: https://prezi.com/view/ni0F3QFfyOCk2RlwOeC0/
 
 
 # Final-Project-Statistical-Modelling-with-Python
