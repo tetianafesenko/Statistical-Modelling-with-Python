@@ -1,3 +1,6 @@
+Final presentation link: https://prezi.com/view/ni0F3QFfyOCk2RlwOeC0/
+
+
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
